@@ -8,6 +8,7 @@ namespace FizzBuzz.Library
 {
     public class FizzBuzzer
     {
+        //comment 1
         public static string GetValue(int input)
         {
             return input.ToString();
