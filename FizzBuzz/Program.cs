@@ -8,6 +8,7 @@ namespace FizzBuzz
 {//some comment 123
     class Program
     {
+        //declared feature1
         static void Main(string[] args)
         {
             for (int n = 0; n < 100; n++)
